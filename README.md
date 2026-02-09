@@ -6,7 +6,7 @@ El trabajo explora distintas técnicas para identificar contornos en imágenes y
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 Detectar contornos en imágenes binarias y analizar sus características principales, tales como:
 - Área
 - Perímetro
